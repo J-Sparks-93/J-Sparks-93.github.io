@@ -11,7 +11,6 @@ I started my collegiate journey at SNHU in June of 2022, I had completed my gene
 
 
 ### <u>Code Review</u>
-<video width="320" height="240" controls>
-  <source src="Jeffrey Sparks Code Review CS 499.ENCODING.mp4" type="video/mp4">
-</video>
 
+
+<iframe width="1280" height="720" style="border:0;" scrolling="no" src="https://go.screenpal.com/player/cZ62fUVWxOS?controls=1&share=1&download=1&embed=1&cl=1&width=1280&height=720&overlays=1&ff=1" allowfullscreen="true"></iframe>
