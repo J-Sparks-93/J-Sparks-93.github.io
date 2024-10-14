@@ -11,7 +11,10 @@ I started my collegiate journey at SNHU in June of 2022, I had completed my gene
 
 
 <div class="your-centered-div">
-<table>
+<table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}>
 <tr>
     <th>Technical Skills</th>
     <th>Soft Skills</th>
@@ -34,15 +37,18 @@ I started my collegiate journey at SNHU in June of 2022, I had completed my gene
 </tr>
 <tr>
     <td>Full-Stack Development </td>
+    <td></td>
 </tr>
 <tr>
     <td>Computational Graphic Visualization</td>
 </tr>
 <tr>
     <td>Operation Platforms</td>
+    <td></td>
 </tr>
 <tr>
     <td>Artificial Intelligence and Machine-Learning Algorithms</td>
+    <td></td>
 </tr>
 </table>
 </div>
