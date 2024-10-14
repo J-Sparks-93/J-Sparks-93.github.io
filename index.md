@@ -11,13 +11,10 @@ I started my collegiate journey at SNHU in June of 2022, I had completed my gene
 
 
 <div class="your-centered-div">
-<table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}>
+<table>
 <tr>
-    <th>Technical Skills</th>
-    <th>Soft Skills</th>
+    <th><b>Technical Skills</b></th>
+    <th><b>Soft Skills</b></th>
 </tr>
 <tr>
     <td>Python</td>
