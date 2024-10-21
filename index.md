@@ -86,5 +86,5 @@ I included this artifact as it shows my understanding of multiple machine-learni
 </div>
 
 Below is a hyperlink to the full repsoitory for artifact two.
-<div><a href="https://github.com/J-Sparks-93/J-Sparks-93.github.io/tree/main/CS-Program-SNHU-CS-370/CS-Program-SNHU-CS-370">Artifact One Repository Branch</a>
+<div><a href="https://github.com/J-Sparks-93/J-Sparks-93.github.io/tree/main/CS-Program-SNHU-CS-370/CS-Program-SNHU-CS-370">Artifact Two Repository Branch</a>
 </div>
