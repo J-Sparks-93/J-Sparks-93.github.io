@@ -75,7 +75,7 @@ Within the original artifact, I recognize the lack of naming convention with mut
 </div>
 
 Below is a hyperlink to the full repository for artifact one. 
-<div><a href="https://github.com/J-Sparks-93/J-Sparks-93.github.io/tree/main/CS-Program-SNHU-CS-340/CS-Program-SNHU-CS-340">Artifact One Repository Branch</a>
+<div><a href="https://github.com/J-Sparks-93/J-Sparks-93.github.io/tree/main/CS-Program-SNHU-CS-340-Enhanced/CS-Program-SNHU-CS-340">Artifact One Repository Branch</a>
 </div>
 
 
@@ -90,7 +90,7 @@ I included this artifact as it shows my understanding of multiple machine-learni
 </div>
 
 Below is a hyperlink to the full repsoitory for artifact two.
-<div><a href="https://github.com/J-Sparks-93/J-Sparks-93.github.io/tree/main/CS-Program-SNHU-CS-370/CS-Program-SNHU-CS-370">Artifact Two Repository Branch</a>
+<div><a href="https://github.com/J-Sparks-93/J-Sparks-93.github.io/tree/main/CS-Program-SNHU-CS-370-Enhanced/CS-Program-SNHU-CS-370">Artifact Two Repository Branch</a>
 </div>
 
 
@@ -106,5 +106,5 @@ I included this artifact for this category as it fits perfect with the theme of 
 </div>
 
 Below is a hyperlink to the full repsoitory for artifact three.
-<div><a href="https://github.com/J-Sparks-93/J-Sparks-93.github.io/tree/main/CS-Program-SNHU-CS-340/CS-Program-SNHU-CS-340">Artifact Three Repository Branch</a>
+<div><a href="https://github.com/J-Sparks-93/J-Sparks-93.github.io/tree/main/CS-Program-SNHU-CS-340-Enhanced/CS-Program-SNHU-CS-340">Artifact Three Repository Branch</a>
 </div>
