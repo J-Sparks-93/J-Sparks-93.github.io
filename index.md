@@ -57,3 +57,15 @@ I started my collegiate journey at SNHU in June of 2022, I had completed my gene
 <div class="your-centered-div">
 <iframe width="720" height="480" style="border:0;" scrolling="no" src="https://go.screenpal.com/player/cZ62fUVWxOS?controls=1&share=1&download=1&embed=1&cl=1&width=1280&height=720&overlays=1&ff=1" allowfullscreen="true"></iframe>
 </div>
+
+### <u>Artifact One: Sofware Design and Engineering </u>
+
+This artifact was created originally during my coursework for the course CS 340, Client/Server Development. The goal here was to create a web-based application in order to help search through a MongoDB-based database for an animal shelter. Here we had to design a python document, this python document has been programmed to connect to the specific database attached to this project. Here we created a base of Four operations representing a CRUD method of searching, CRUD standing for Create, Read, Update, and Delete. This gives our web-based dashboard the abilities to create documents and add them to the database, retrieve and read documents from the database, update documents within the database and delete documents from the database. 
+
+I chose this artifact for this category to ultimately show my understanding of software design, how the different classes mesh together and how naming convention and comments are ever important parts of the design process, to help for future maintenance that may be done by a different developer who may not completely understand what my mindset was when developing the program. It creates an easy reading experience for easy understanding. 
+
+Within the original artifact, I recognize the lack of naming convention with mutiple argument variables being named 'data', my update to these were mainly in the realm of design, to help clarify what data was going for what CRUD method. 
+
+<div class ="your-centered-div">
+<img src="./assets/img/ArtifactOne.png" title="Artifact One" alt="Artifact One" /></a></p>
+</div>
