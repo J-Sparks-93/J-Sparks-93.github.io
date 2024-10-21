@@ -7,7 +7,11 @@ This ePortfolio is a reflection of my abilities and knowledge that I have harnes
 
 ### <u>Professional Self-Assessment</u>
 
-I started my collegiate journey at SNHU in June of 2022, I had completed my general education requirements years prior at Morehead State University in 2012 and American Public University in 2015. From there I had changed my major a multitude of times, dipping my toes in the water so to speak. I fell in love with programming and scripting during my time in the course IT-140. It amazed me how much you can accomplish with a few lines of code, from video games to medical equipment, we as a society have never been more intertwined with technology and I absolutely adore living in this timelime. I started my coding journey by learning Python, Java, and C++. Growing from there, I learned skills within the Software Development Lifecycle and Team Collaboration, even delving into more complex topics such as computational graphic visualization and full-stack development. My tenure at SNHU has left me feeling eager and well rounded. Within the following sections, I will demonstrate my understanding of my chosen coding artifacts I have completed while attending the Computer Science undergraduate Program at SNHU. 
+I started my collegiate journey at SNHU in June of 2022, I had completed my general education requirements years prior at Morehead State University in 2012 and American Public University in 2015. From there I had changed my major a multitude of times, dipping my toes in the water so to speak. I fell in love with programming and scripting during my time in the course IT-140. It amazed me how much you can accomplish with a few lines of code, from video games to medical equipment, we as a society have never been more intertwined with technology and I absolutely adore living in this timelime. I started my coding journey by learning Python, Java, and C++. Growing from there, I learned skills within the Software Development Lifecycle and Team Collaboration, even delving into more complex topics such as computational graphic visualization and full-stack development. As a teen and young adult, what deterred me was a fear of not understanding the deep level of mathematics behind a Computer Science degree, which I have conquered with ease in terms of Calculus, Discrete Mathematics, Applied Linear Algebra, and Statistics. My tenure at SNHU has left me feeling eager and well rounded. Within the following sections, I will demonstrate my understanding of my chosen coding artifacts I have completed while attending the Computer Science undergraduate Program at SNHU through the use of my two chosen artifacts. 
+
+The artifacts I have chosen accentuate my understanding of appropriate software design such as helpful naming conventions and appropriate commenting, algorithms and data structures through my understanding of q-learning and greedy-epsilon reinforcement algorithms, and mastery of understanding of CRUD methodologies along side the understanding of simple and complex query searches within MongoDB. 
+
+Below is a table that showcases a few technical and soft skills I have obtained during my tenure at SNHU and during my personal professional development. 
 
 
 <div class="your-centered-div">
@@ -101,6 +105,6 @@ I included this artifact for this category as it fits perfect with the theme of 
 <img src="./assets/img/ArtifactThree.png" title="Artifact Three" alt="Artifact Three" />
 </div>
 
-Below is a hyperlink to the full repsoitory for artifact two.
+Below is a hyperlink to the full repsoitory for artifact three.
 <div><a href="https://github.com/J-Sparks-93/J-Sparks-93.github.io/tree/main/CS-Program-SNHU-CS-340/CS-Program-SNHU-CS-340">Artifact Three Repository Branch</a>
 </div>
