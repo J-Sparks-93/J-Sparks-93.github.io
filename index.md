@@ -72,3 +72,17 @@ Within the original artifact, I recognize the lack of naming convention with mut
 
 Below is a hyperlink to the full repository for artifact one. 
 <div><a href="https://github.com/J-Sparks-93/J-Sparks-93.github.io/tree/main/CS-Program-SNHU-CS-340/CS-Program-SNHU-CS-340">Artifact One Repository Branch</a>
+
+
+### <u> Artifact Two: Algorithm and Data Structures </u>
+
+This artifact was created during my coursework with CS 370, Emerging Trends in Computer Science. This course focused on Artificial Intelligence and Machine-learning algorithms. We were to develop a Q-Learning algorithm to help guide a pirate, which is acting as our intelligent agent, through a predefined maze, through multi-episodal epochs, to obtain a successful completion rate of at least 90%, completion being represented by the pirate successfully navigating the maze to obtain the treasure. 
+
+I included this artifact as it shows my understanding of multiple machine-learning algorithms and how they work to train the intelligent agent in terms of its environment. The updates I made to this are within a separate document, I created an alternative epsilon-greedy solution to the pirate problem. The basis of an epsilon-greedy solution is to balance the agents exploration and exploitation factors within the algorithm, which over time limits the amount of exploration the agent can take, relying more on exploiting the knowledge it has gained from past epochs. 
+
+<div class ="your-centered-div">
+<img src="./assets/img/ArtifactTwo.png" title="Artifact Two" alt="Artifact Two" />
+</div>
+
+Below is a hyperlink to the full repsoitory for artifact two.
+<div><a href="https://github.com/J-Sparks-93/J-Sparks-93.github.io/tree/main/CS-Program-SNHU-CS-370/CS-Program-SNHU-CS-370">Artifact One Repository Branch</a>
