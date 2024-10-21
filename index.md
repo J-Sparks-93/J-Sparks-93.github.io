@@ -7,7 +7,7 @@ This ePortfolio is a reflection of my abilities and knowledge that I have harnes
 
 ### <u>Professional Self-Assessment</u>
 
-I started my collegiate journey at SNHU in June of 2022, I had completed my general education requirements years prior at Morehead State University in 2012 and American Public University in 2015. From there I had changed my major a multitude of times, dipping my toes in the water so to speak. I fell in love with programming and scripting during my time in the course IT-140. It amazed me how much you can accomplish with a few lines of code, from video games to medical equipment, we as a society have never been more intertwined with technology and I absolutely adore living in this timelime. I started my coding journey by learning Python, Java, and C++, growing from there I learned skills within the Software Development Lifecycle and Team Collaboration, even delving into more complex topics such as computational graphic visualization and full-stack development. My tenure at SNHU has left me feeling eager and well rounded. Within the following sections, I will demonstrate my understanding of my chosen coding artifacts I have completed while attending the Computer Science undergraduate Program at SNHU. 
+I started my collegiate journey at SNHU in June of 2022, I had completed my general education requirements years prior at Morehead State University in 2012 and American Public University in 2015. From there I had changed my major a multitude of times, dipping my toes in the water so to speak. I fell in love with programming and scripting during my time in the course IT-140. It amazed me how much you can accomplish with a few lines of code, from video games to medical equipment, we as a society have never been more intertwined with technology and I absolutely adore living in this timelime. I started my coding journey by learning Python, Java, and C++. Growing from there, I learned skills within the Software Development Lifecycle and Team Collaboration, even delving into more complex topics such as computational graphic visualization and full-stack development. My tenure at SNHU has left me feeling eager and well rounded. Within the following sections, I will demonstrate my understanding of my chosen coding artifacts I have completed while attending the Computer Science undergraduate Program at SNHU. 
 
 
 <div class="your-centered-div">
@@ -87,4 +87,20 @@ I included this artifact as it shows my understanding of multiple machine-learni
 
 Below is a hyperlink to the full repsoitory for artifact two.
 <div><a href="https://github.com/J-Sparks-93/J-Sparks-93.github.io/tree/main/CS-Program-SNHU-CS-370/CS-Program-SNHU-CS-370">Artifact Two Repository Branch</a>
+</div>
+
+
+
+### <u>Artifact Three: Databases</u>
+
+Here, we will be revisiting Artifact One, from CS 340 Client/Server Development. As stated previously this project was based on the creation of a web-based dashboard program to ease the burden of access to the information on the database for the workers within the animal shelter. Here within jupyter notebook, we continued to access the database using python elements while designing the dashboard with HTML elements. The base project was required to have four filters to search for specific keyword elements to complete complex query searches within the database, based on specific breed requirements. As it stands, the program functions in a way that if no keywords are used in a search, all records will be returned, if a filter is added, it will select only the documents that has the keyword elements within. 
+
+I included this artifact for this category as it fits perfect with the theme of showing I understand database queries, simple and complex in terms of this project. My updates here include adding two additional filters for two simple queries. As this database is connected to an animal shelter, it made only sense that a user may need to access documents pertaining to only specific species of animals, so I added two additional filters, one specifically for cats, the other for dogs. 
+
+<div class ="your-centered-div">
+<img src="./assets/img/ArtifactThree.png" title="Artifact Three" alt="Artifact Three" />
+</div>
+
+Below is a hyperlink to the full repsoitory for artifact two.
+<div><a href="https://github.com/J-Sparks-93/J-Sparks-93.github.io/tree/main/CS-Program-SNHU-CS-340/CS-Program-SNHU-CS-340">Artifact Three Repository Branch</a>
 </div>
