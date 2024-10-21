@@ -67,5 +67,8 @@ I chose this artifact for this category to ultimately show my understanding of s
 Within the original artifact, I recognize the lack of naming convention with mutiple argument variables being named 'data', my update to these were mainly in the realm of design, to help clarify what data was going for what CRUD method. 
 
 <div class ="your-centered-div">
-<img src="./assets/img/ArtifactOne.png" title="Artifact One" alt="Artifact One" /></a></p>
+<img src="./assets/img/ArtifactOne.png" title="Artifact One" alt="Artifact One" />
 </div>
+
+Below is a hyperlink to the full repository for artifact one. 
+<div><a href="https://github.com/J-Sparks-93/J-Sparks-93.github.io/tree/main/CS-Program-SNHU-CS-340/CS-Program-SNHU-CS-340">Artifact One Repository Branch</a>
