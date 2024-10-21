@@ -72,6 +72,7 @@ Within the original artifact, I recognize the lack of naming convention with mut
 
 Below is a hyperlink to the full repository for artifact one. 
 <div><a href="https://github.com/J-Sparks-93/J-Sparks-93.github.io/tree/main/CS-Program-SNHU-CS-340/CS-Program-SNHU-CS-340">Artifact One Repository Branch</a>
+</div>
 
 
 ### <u> Artifact Two: Algorithm and Data Structures </u>
@@ -86,3 +87,4 @@ I included this artifact as it shows my understanding of multiple machine-learni
 
 Below is a hyperlink to the full repsoitory for artifact two.
 <div><a href="https://github.com/J-Sparks-93/J-Sparks-93.github.io/tree/main/CS-Program-SNHU-CS-370/CS-Program-SNHU-CS-370">Artifact One Repository Branch</a>
+</div>
